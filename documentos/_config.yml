@@ -1,4 +1,4 @@
-# Set this website's info
+lo# Establecer la información de este sitio web
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://coffeebank.github.io"
@@ -18,9 +18,9 @@ useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+DiscordInvite : https : //discord.gg/6dzmUAgHME
+discordiaID del servidor : 1011351420101988492
+discordiaID del canal : 1012758610671063092
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
